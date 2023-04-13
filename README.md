@@ -9,7 +9,7 @@
 <a href="https://blog.naver.com/iamseongmin" target="_blank"><img src="https://img.shields.io/badge/blog-8AAAE5?style=for-the-badge&logo=naver&logoColor=FEFEFE"/></a>
 
 
-<b>Skill</b>
+<b align="center">Skill</b>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
