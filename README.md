@@ -10,8 +10,8 @@
 <a href="https://blog.naver.com/iamseongmin" target="_blank"><img src="https://img.shields.io/badge/blog-8AAAE5?style=for-the-badge&logo=naver&logoColor=FEFEFE"/></a>
 </div>
 
-	</br>
-	</br>
+</br>
+</br>
 
 <b>Skill</b>
 <div>
@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 </div>
-	</br>
 <div>
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
@@ -29,7 +28,6 @@
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 </div>
-	</br>
 <div>
 	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
