@@ -1,6 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=8AAAE5&height=250&section=header&text=HELLO%20⚽&fontSize=50&fontColor=FEFEFE&animation=scaleIn)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=8AAAE5&height=250&section=header&text=HELLO%20⚽&fontSize=50&fontColor=FEFEFE&animation=scaleIn)
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurlang&show_icons=true&theme=buefy)
 
 
