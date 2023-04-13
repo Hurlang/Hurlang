@@ -26,6 +26,7 @@
 	<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white" />
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 </div>
 <div>
 	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" />
