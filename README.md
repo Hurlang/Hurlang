@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8AAAE5&height=300&section=header&text=HELLO%20I'm%20Hurlang&fontSize=90&fontColor=FEFEFE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8AAAE5&height=300&section=header&text=HELLO%20&fontSize=90&text=⚽&fontSize=30&fontColor=FEFEFE)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurlang&show_icons=true&theme=buefy)
  
