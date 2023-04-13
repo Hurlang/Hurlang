@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8AAAE5&height=250&section=header&text=HELLO%20⚽&fontSize=50&fontColor=FEFEFE&animation=scaleIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurlang&show_icons=true&theme=buefy)
-
 
 
 <div align="center">
@@ -28,3 +26,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurlang&show_icons=true&theme=buefy)
